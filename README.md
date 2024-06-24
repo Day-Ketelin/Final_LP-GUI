@@ -13,15 +13,13 @@ Projeto acadêmico criado para avaliação junto à disciplina de Linguagens de 
 
 **Email:** **dayaneketelin@hotmail.com**
 
-**Linkked-in:** **[Dayane Ketelin](https://www.linkedin.com/in/dayane-ketelin)**
+**Linked-in:** **[Dayane Ketelin](https://www.linkedin.com/in/dayane-ketelin)**
 
 
 #
 
 ***Link do Projeto:*** **<https://github.com/Day-Ketelin/Final_LP-GUI>**
 #
-
-##
 
 # Objetivo
 
@@ -41,14 +39,10 @@ Na idealização inicial do projeto foram construídas as telas de:
 
 
 #
+⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
 
 ---
 
-## Sequência das Telas:
----
-**Login -----> Menu Geral <-----> Cadastro de Local  <-----> Cadastro de Cliente  <-----> Carrinho <-----> Citrine de Produtos**
-
---- 
 ## **Login**
 
 O sistema de login é seguro e o usuário pode entrar na plataforma fornecendo suas credenciais (nome de usuário e senha).
@@ -109,14 +103,24 @@ Ao escolher os locais desejados, o cliente poderá adicioná-los ao carrinho. Ne
 ---
 ### Banco de Dados
 
+### 
+
 **Por se tratar de um banco de dados específico, orienta-se a utilização do banco de dados não relacional MongoDB, o que permitirá melhor cadastro dos locais, com descrição em texto e inserção de imagens para facilitar o acesso na interface com o usuário.**
 ---
+
+⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
 
 # Funcionamento da Aplicação
 
 ![](https://github.com/Day-Ketelin/Final_LP-GUI/blob/main/Imagens/LP_GUI.gif)
 
 ---
+
+***Sequência das Telas:***
+
+**Login -----> Menu Geral <-----> Cadastro de Local  <-----> Cadastro de Cliente  <-----> Carrinho <-----> Citrine de Produtos**
+
+--- 
 
 ### Linguagem utilizada: JAVA
 
