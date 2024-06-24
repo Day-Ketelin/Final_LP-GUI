@@ -38,8 +38,19 @@ Na idealização inicial do projeto foram construídas as telas de:
 
 
 
+
+
+# Diagrama
+
+![](https://github.com/Day-Ketelin/Final_LP-GUI/blob/main/Imagens/Diagrama.png)
+
+**Link Figma: [*Diagrama do Projeto*](https://www.figma.com/board/Qj046HnY6Tp00542Kgp1Qc/Diagrama-AV2---LP?node-id=0-1&t=u1Er5anzI4JiFsgB-0)**
+
 #
+
 ⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
+
+#
 
 ---
 
